@@ -1,4 +1,4 @@
-pandas
-food
-games
-friends and family
+*pandas
+*friends and family
+*food
+*stuff
